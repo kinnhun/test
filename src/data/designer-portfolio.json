@@ -1,0 +1,92 @@
+{
+  "categories": [
+    { "value": "all", "label": "Tất cả" },
+    { "value": "poster", "label": "Poster" },
+    { "value": "logo", "label": "Logo" },
+    { "value": "web", "label": "Web" },
+    { "value": "menu", "label": "Menu quán" },
+    { "value": "app", "label": "App UI" }
+  ],
+  "projects": [
+    {
+      "id": "poster-1",
+      "title": "Poster Campaign",
+      "category": "poster",
+      "tags": ["poster", "print", "campaign"],
+      "thumb": "/photography-album/wedding-1.webp",
+      "width": 800,
+      "height": 1200
+    },
+    {
+      "id": "logo-1",
+      "title": "Logo & Brand Mark",
+      "category": "logo",
+      "tags": ["logo", "brand", "identity"],
+      "thumb": "/photography-album/graduation-1.webp",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": "web-1",
+      "title": "Website Landing UI",
+      "category": "web",
+      "tags": ["web", "ui", "landing"],
+      "thumb": "/photography-album/personal-1.webp",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "id": "menu-1",
+      "title": "Cafe Menu Design",
+      "category": "menu",
+      "tags": ["menu", "cafe", "print"],
+      "thumb": "/photography-album/product-1.webp",
+      "width": 900,
+      "height": 1200
+    },
+    {
+      "id": "app-1",
+      "title": "Mobile App UI Kit",
+      "category": "app",
+      "tags": ["app", "ui", "ux"],
+      "thumb": "/photography-album/wedding-2.webp",
+      "width": 1200,
+      "height": 900
+    },
+    {
+      "id": "poster-2",
+      "title": "Event Poster",
+      "category": "poster",
+      "tags": ["poster", "event"],
+      "thumb": "/photography-album/wedding-3.webp",
+      "width": 1100,
+      "height": 800
+    }
+  ],
+  "pricing": [
+    {
+      "id": "starter",
+      "title": "Starter",
+      "price": "1.500.000đ+",
+      "description": "Phù hợp cho dự án nhỏ, cần nhanh và gọn.",
+      "items": ["1 concept", "2 vòng chỉnh sửa", "File xuất PNG/JPG", "Bàn giao trong 2-3 ngày"]
+    },
+    {
+      "id": "pro",
+      "title": "Pro",
+      "price": "3.500.000đ+",
+      "highlight": true,
+      "description": "Gói phổ biến cho logo/landing/menu chuyên nghiệp.",
+      "items": ["2-3 concepts", "4 vòng chỉnh sửa", "Source file (AI/Figma)", "Hướng dẫn sử dụng cơ bản"]
+    },
+    {
+      "id": "studio",
+      "title": "Studio",
+      "price": "7.500.000đ+",
+      "description": "Cho brand + UI/UX cần hệ thống và bàn giao đầy đủ.",
+      "items": ["Brand mini-kit", "UI components", "8 vòng chỉnh sửa", "Bàn giao & hỗ trợ 14 ngày"]
+    }
+  ]
+}
+
+

@@ -1,0 +1,148 @@
+[
+  {
+    "id": "wedding-1",
+    "url": "/photography-album/wedding-1.webp",
+    "title": "Wedding Ceremony",
+    "category": "wedding",
+    "tags": ["wedding", "ceremony", "bride", "groom"],
+    "width": 800,
+    "height": 1200
+  },
+  {
+    "id": "wedding-2",
+    "url": "/photography-album/wedding-2.webp",
+    "title": "Wedding Reception",
+    "category": "wedding",
+    "tags": ["wedding", "reception", "party"],
+    "width": 1200,
+    "height": 800
+  },
+  {
+    "id": "wedding-3",
+    "url": "/photography-album/wedding-3.webp",
+    "title": "Bridal Portrait",
+    "category": "wedding",
+    "tags": ["wedding", "portrait", "bride"],
+    "width": 900,
+    "height": 1200
+  },
+  {
+    "id": "wedding-4",
+    "url": "/photography-album/wedding-4.webp",
+    "title": "Wedding Details",
+    "category": "wedding",
+    "tags": ["wedding", "details", "decor"],
+    "width": 1100,
+    "height": 800
+  },
+  {
+    "id": "graduation-1",
+    "url": "/photography-album/graduation-1.webp",
+    "title": "Graduation Day",
+    "category": "graduation",
+    "tags": ["graduation", "ceremony", "student"],
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "id": "graduation-2",
+    "url": "/photography-album/graduation-2.webp",
+    "title": "Cap Throw",
+    "category": "graduation",
+    "tags": ["graduation", "celebration"],
+    "width": 1200,
+    "height": 900
+  },
+  {
+    "id": "graduation-3",
+    "url": "/photography-album/graduation-3.webp",
+    "title": "Graduation Portrait",
+    "category": "graduation",
+    "tags": ["graduation", "portrait"],
+    "width": 800,
+    "height": 1100
+  },
+  {
+    "id": "graduation-4",
+    "url": "/photography-album/graduation-4.webp",
+    "title": "Graduation Group",
+    "category": "graduation",
+    "tags": ["graduation", "group", "friends"],
+    "width": 1200,
+    "height": 900
+  },
+  {
+    "id": "personal-1",
+    "url": "/photography-album/personal-1.webp",
+    "title": "Portrait Session",
+    "category": "personal",
+    "tags": ["portrait", "personal", "studio"],
+    "width": 900,
+    "height": 1200
+  },
+  {
+    "id": "personal-2",
+    "url": "/photography-album/personal-2.webp",
+    "title": "Lifestyle Photo",
+    "category": "personal",
+    "tags": ["lifestyle", "personal", "outdoor"],
+    "width": 1100,
+    "height": 800
+  },
+  {
+    "id": "personal-3",
+    "url": "/photography-album/personal-3.webp",
+    "title": "Family Portrait",
+    "category": "personal",
+    "tags": ["family", "portrait", "personal"],
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "id": "personal-4",
+    "url": "/photography-album/personal-4.webp",
+    "title": "Personal Session",
+    "category": "personal",
+    "tags": ["personal", "session", "portrait"],
+    "width": 900,
+    "height": 1200
+  },
+  {
+    "id": "product-1",
+    "url": "/photography-album/product-1.webp",
+    "title": "Product Showcase",
+    "category": "product-review",
+    "tags": ["product", "review", "commercial"],
+    "width": 1200,
+    "height": 900
+  },
+  {
+    "id": "product-2",
+    "url": "/photography-album/product-2.webp",
+    "title": "Product Detail",
+    "category": "product-review",
+    "tags": ["product", "detail", "commercial"],
+    "width": 800,
+    "height": 1200
+  },
+  {
+    "id": "product-3",
+    "url": "/photography-album/product-3.webp",
+    "title": "Product Lifestyle",
+    "category": "product-review",
+    "tags": ["product", "lifestyle", "review"],
+    "width": 1000,
+    "height": 1000
+  },
+  {
+    "id": "product-4",
+    "url": "/photography-album/product-3.webp",
+    "title": "Product Studio",
+    "category": "product-review",
+    "tags": ["product", "studio", "commercial"],
+    "width": 1100,
+    "height": 800
+  }
+]
+
+
